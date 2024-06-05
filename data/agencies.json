@@ -1,0 +1,453 @@
+[
+  {
+    "id": "1",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Lobos Agency",
+    "productImg": "1.jpg",
+    "dealMade": 69,
+    "budget": ["Low Budget"],
+    "discount": 5,
+    "district": "Mission District Area",
+    "properties": 10,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Belmont Gardens, Chicago",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    
+
+  
+    "AmenitiesList": ["Dishwasher"],
+    "agents": [
+      {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    }
+  ],
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+  {
+    "id": "7",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Lobos Agency",
+    "productImg": "1.jpg",
+    "dealMade": 69,
+    "budget": ["Low Budget"],
+    "discount": 5,
+    "district": "Mission District Area",
+    "properties": 10,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Belmont Gardens, Chicago",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    
+
+  
+    "AmenitiesList": ["Dishwasher"],
+    "agents": [
+      {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    }
+  ],
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+  {
+    "id": "5",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Lobos Agency",
+    "productImg": "1.jpg",
+    "dealMade": 69,
+    "budget": ["Low Budget"],
+    "discount": 5,
+    "district": "Mission District Area",
+    "properties": 10,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Belmont Gardens, Chicago",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    
+
+  
+    "AmenitiesList": ["Dishwasher"],
+    "agents": [
+      {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    }
+  ],
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+  {
+    "id": "3",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Lobos Agency",
+    "productImg": "1.jpg",
+    "dealMade": 69,
+    "budget": ["Low Budget"],
+    "discount": 5,
+    "district": "Mission District Area",
+    "properties": 10,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Belmont Gardens, Chicago",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    
+
+  
+    "AmenitiesList": ["Dishwasher"],
+    "agents": [
+      {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    }
+  ],
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+  {
+    "id": "10",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Lobos Agency",
+    "productImg": "1.jpg",
+    "dealMade": 69,
+    "budget": ["Low Budget"],
+    "discount": 5,
+    "district": "Mission District Area",
+    "properties": 10,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "Belmont Gardens, Chicago",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    
+
+  
+    "AmenitiesList": ["Dishwasher"],
+    "agents": [
+      {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+    {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    }
+  ],
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+
+]

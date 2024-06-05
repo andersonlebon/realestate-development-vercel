@@ -1,0 +1,17 @@
+.loginForm, .registerForm {
+  input {
+    border: none !important; 
+    padding-left: 10px !important;
+    background: transparent !important;
+  }
+
+  button {
+    border: white !important;
+  }
+}
+
+.registerForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

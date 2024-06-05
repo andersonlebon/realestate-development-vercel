@@ -1,0 +1,21 @@
+
+
+.top_info {
+  height: 2.5rem;
+  width: 100%;
+  background: #B4A852;
+  color: #FFF !important;
+  font-size: 0.53125rem;
+  font-weight: 200;
+  line-height: 1.375rem; /* 165.414% */
+  padding: 0.5rem 5rem;
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  .top_info {
+    display: flex;
+align-items: center;
+  }
+  
+}

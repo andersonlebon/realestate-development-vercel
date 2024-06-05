@@ -1,0 +1,52 @@
+
+
+.home_properties_list_item {
+  width: 22.25rem;
+  // padding: 0.5rem;
+}
+
+.home_properties_list_item_img {
+  width: 21.25rem;
+  height: 21.25rem;
+  border-radius: 1.875rem;
+  background: #B4A852;
+  position: relative;
+
+  .home_properties_list_item_img_tag {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-radius: 1.25rem;
+    background: #FFE1E1; 
+    padding: 0.5rem 1.5rem;
+    margin: 1.2rem 1.2rem;
+  }
+}
+.home_properties_list_item_texts {
+  width: 100%;
+}
+
+.home_properties_list_item_price {
+  color: #2b2b2b;
+  font-size: 1.725rem;
+  font-weight: 600;
+}
+
+.home_properties_list_item_title {
+  color: #2b2b2b;
+  font-size: 1.2125rem;
+  font-style: normal;
+  font-weight: 500;
+
+}
+
+.home_properties_list_item_pgraph {
+  color: #808080;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+}
+
+.home_properties_list_item_room {
+  color: #2B2B2B;
+}
